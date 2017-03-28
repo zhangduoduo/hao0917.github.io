@@ -1,3 +1,10 @@
+---
+layout: post
+title: MarkDown 学习
+description: 介绍一些简单的MarkDown语法
+category: blog
+---
+
 # 我的Markdown
 
 ## 关于标题
