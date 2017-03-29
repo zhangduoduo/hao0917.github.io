@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GIT 命令
-categories: [study, git]
+categories: [study]
 description: GIT常用命令
 keywords: GIT,版本控制
 ---
