@@ -1,11 +1,11 @@
 # 码志
 
-我的个人博客：<https://hao0917.github.io/>。
+我的个人博客：<https://zhangduoduo.github.io/>。
 
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://hao0917.github.io/)**
+**[在线预览 &rarr;](https://zhangduoduo.github.io/)**
 
 ## 致谢
 

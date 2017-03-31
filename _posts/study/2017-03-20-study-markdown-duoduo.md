@@ -1,6 +1,6 @@
 ---
 layout: post
-title: template page
+title: Markdown基础用法的学习
 categories: [markdown]
 description: markdown 学习
 keywords: markdown
