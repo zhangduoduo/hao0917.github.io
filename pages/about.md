@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: Wenhao, 文豪
+keywords: duoduo, 多多
 comments: true
 menu: 关于
 permalink: /about/
