@@ -17,9 +17,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: wenhao
-github_username: hao0917
+github_username: zhangduoduo
 location: Beijing, China
-email: GHao0917@gmail.com
+email: @gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -76,7 +76,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: hao0917/hao0917.github.io
+repository: zhangduoduo/zhangduoduo.github.io
 
 # ---------------- #
 #      Comments    #
